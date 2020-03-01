@@ -1,9 +1,9 @@
 **How Iran Became a New Epicenter of the Coronavirus Outbreak**
 
-[纽约客](https://www.newyorker.com/news/our-columnists/how-iran-became-a-new-epicenter-of-the-coronavirus-outbreak "点击跳转")
+转自：[纽约客@Robin Wright](https://www.newyorker.com/news/our-columnists/how-iran-became-a-new-epicenter-of-the-coronavirus-outbreak "点击跳转")
 
 在周一的新闻发布会上，伊朗卫生部副部长哈里奇对记者表示，该国的冠状病毒疫情“基本稳定”，他当时脸色苍白，浑身是汗。他频繁地擦拭额头，一个助手急忙拿着一盒纸巾跑到讲台上。一位伊朗议员声称已经有50人死于covid19, 哈里奇驳斥了这一说法。他说:“如果人数只占总数的一半或四分之一，我就辞职。”他补充说，伊朗只有61例确诊病例，12例死亡。他说，伊朗反对隔离，因为它们属于第一次世界大战之前的时代——“属于瘟疫、霍乱之类的东西”。第二天，哈里奇在来自隔离区的视频中证实他感染了冠状病毒。
-![Iran’s deputy health minister, Iraj Harirchi, wipes sweat from his brow during a press conference, on Monday. He later confirmed that he has contracted coronavirus.](/Wright-CoronavirusinIran-Secondary.jpg "Iran’s deputy health minister, Iraj Harirchi, wipes sweat from his brow during a press conference, on Monday. He later confirmed that he has contracted coronavirus.")
+![alt](/Wright-CoronavirusinIran-Secondary.jpg "Iran’s deputy health minister, Iraj Harirchi, wipes sweat from his brow during a press conference, on Monday. He later confirmed that he has contracted coronavirus.")
 伊朗是一个拥有八千三百万人口的国家，如今它已成为冠状病毒的全球震中之一，死亡率居世界首位。根据官方数据，伊朗的死亡率每天都在波动，介于8％至18％之间，而中国为3％，其他地方则更低。伊朗情况也很特殊，因为确诊病例中相当部分是高级政府官员。周四，副总统玛苏梅·埃卜特卡尔宣布她也感染了冠状病毒，她在1979年因作为占领美国大使馆并劫持52名美国人质的学生的发言人“玛丽姐妹”而闻名。前一天，她参加了与哈桑·鲁哈尼总统及其内阁的会晤。包括国家安全和外交政策委员会主席在内的两名议会议员，德黑兰一个区的市长和曾担任伊朗驻梵蒂冈大使的一名高级神职人员也受到了感染。其中一名议员马哈茂德·萨德吉周二在推特上说：“我在生机渺茫的情况下发出这条信息。”81岁的前驻梵蒂冈大使周四去世。22岁的国家女子足球队成员伊尔哈姆·谢赫也是如此。
 
 伊朗官方统计的数字——截至周五，388例确诊病例和34例死亡病例——可能被严重低估了。在周一发表的一份早期分析报告中，6名加拿大流行病学家计算出，伊朗可能有超过1.8万例冠状病毒病例。他们的数学模型是基于伊朗的官方死亡人数、世界范围内的疾病感染和死亡率、溯源到伊朗的其他国家的变化、飞行数据和旅行模式。他们总结说:“鉴于已查明起源于伊朗的COVID-19病例的国家(如加拿大)的航空旅行量很低，伊朗目前可能正在经历大规模的COVID-19疫情。”由于存在很大的误差范围，病例数可能低至3700例，高至53000例。最后，加拿大流行病学家确定了一万八千三百人，置信率为95%。他们所有的估计都比伊朗报告的数字高出许多倍。他们的模型发表在medRxiv网站上，该网站用于发布尚未经过同行评审的初步研究结果。
