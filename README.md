@@ -1,5 +1,5 @@
-**How Iran Became a New Epicenter of the Coronavirus Outbreak**
-[纽约客](https://www.newyorker.com/news/our-columnists/how-iran-became-a-new-epicenter-of-the-coronavirus-outbreak)
+**How Iran Became a New Epicenter of the Coronavirus Outbreak**\n
+[纽约客](https://www.newyorker.com/news/our-columnists/how-iran-became-a-new-epicenter-of-the-coronavirus-outbreak "点击跳转")
 
 在周一的新闻发布会上，伊朗卫生部副部长哈里奇对记者表示，该国的冠状病毒疫情“基本稳定”，他当时脸色苍白，浑身是汗。他频繁地擦拭额头，一个助手急忙拿着一盒纸巾跑到讲台上。一位伊朗议员声称已经有50人死于covid19, 哈里奇驳斥了这一说法。他说:“如果人数只占总数的一半或四分之一，我就辞职。”他补充说，伊朗只有61例确诊病例，12例死亡。他说，伊朗反对隔离，因为它们属于第一次世界大战之前的时代——“属于瘟疫、霍乱之类的东西”。第二天，哈里奇在来自隔离区的视频中证实他感染了冠状病毒。
 
